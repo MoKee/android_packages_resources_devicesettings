@@ -17,6 +17,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="ambient_display_always_on_title">Altyd oan</string>
-    <string name="ambient_display_always_on_summary">Tiid, meldingspiktogrammen en oare ynformaasje werjaan. Heger batterijferbrûk.</string>
+    <string name="ambient_display_title">Ambient kuva</string>
+    <string name="ambient_display_enable_title">Ambient kuva</string>
 </resources>

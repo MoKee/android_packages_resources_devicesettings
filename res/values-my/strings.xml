@@ -17,7 +17,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="ambient_display_always_on_title">Uvijek uključeno</string>
-    <string name="ambient_display_always_on_summary">Prikazuj vrijeme, ikone obavijesti, i ostale informacije. Povećava potrošnju baterije.</string>
-    <string name="high_touch_sensitivity_summary">Pojačaj osjetljivost ekrana da se može koristiti i sa rukavicama</string>
+    <string name="touchscreen_e_gesture_title">အီးမေးလ်</string>
+    <string name="dialog_ok">အိုကေ</string>
 </resources>

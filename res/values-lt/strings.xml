@@ -17,27 +17,15 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="device_settings_app_name">Papildomi nustatymai</string>
-    <string name="screen_gestures_panel_title">Gestai</string>
-    <string name="user_aware_display_title">Naudotoją suprantantis ekranas</string>
-    <string name="user_aware_display_summary">Išlaikyti ekraną įjungtą, kai naudotojas žiūri į jį</string>
-    <string name="ambient_display_title">Ambient display</string>
-    <string name="ambient_display_enable_title">Ambient display</string>
-    <string name="ambient_display_enable_summary">Pažadinti ekraną, kai gaunami pranešimai</string>
-    <string name="hand_wave_gesture_title">Rankos mostas</string>
-    <string name="hand_wave_gesture_summary">Pulsuoti pranešimus rankos mostu</string>
-    <string name="pocket_gesture_title">Kišenė</string>
-    <string name="pocket_gesture_summary">Pulsuoti pranešimus pašalinant iš kišenės</string>
-    <string name="proximity_wake_title">Artumo pažadinimas</string>
-    <string name="proximity_wake_enable_title">Artumo pažadinimas</string>
-    <string name="proximity_wake_enable_summary">Pažadinti įrenginį rankos mostu</string>
-    <string name="action_none">Neleisti</string>
-    <string name="action_launch_camera">Paleisti fotoaparatą</string>
-    <string name="action_torch">Įjungti žibintuvėlį</string>
-    <string name="feedback_intensity_title">Lietimo atsiliepimo intensyvumas</string>
-    <string name="feedback_intensity_summary">Dvigubo pasukimo ir „Greičiau greičiau“ veiksmų lietimo atsiliepimo stiprumas</string>
-    <string name="feedback_intensity_none">Neleidžiama</string>
-    <string name="feedback_intensity_low">Žemas</string>
-    <string name="feedback_intensity_medium">Vidutinis</string>
-    <string name="feedback_intensity_high">Aukštas</string>
+    <string name="switch_bar_on">Įjungta</string>
+    <string name="switch_bar_off">Išjungti</string>
+    <string name="touchscreen_c_gesture_title">Fotoaparatas</string>
+    <string name="touchscreen_e_gesture_title">El. paštas</string>
+    <string name="touchscreen_m_gesture_title">Susirašinėjimas žinutėmis</string>
+    <string name="touchscreen_s_gesture_title">Susirašinėjimas žinutėmis</string>
+    <string name="doze_settings_help_title">Pagalba</string>
+    <string name="fingerprint_title">Piršto atspaudas</string>
+    <string name="fingerprint_pocketmode_title">Išvengti atsitiktinio pažadinimo</string>
+    <string name="high_touch_sensitivity_title">Didelis lietimo jautrumas</string>
+    <string name="high_touch_sensitivity_summary">Padidinti liečiamojo ekrano jautrumą tam, kad juo būtų galima naudotis dėvint pirštines</string>
 </resources>
