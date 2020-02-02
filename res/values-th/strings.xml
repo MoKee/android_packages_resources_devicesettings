@@ -27,6 +27,7 @@
     <string name="touchscreen_c_gesture_summary">วาด \"C\" เพื่อเปิดกล้อง</string>
     <string name="touchscreen_e_gesture_title">อีเมล</string>
     <string name="touchscreen_e_gesture_summary">วาดตัว \"e\" เพื่อเปิดแอปอีเมล</string>
+    <string name="touchscreen_m_gesture_title">ข้อความ</string>
     <string name="touchscreen_m_gesture_summary">วาด \"M\" เพื่อเปิดแอปส่งข้อความ</string>
     <string name="touchscreen_s_gesture_title">ส่งข้อความ</string>
     <string name="touchscreen_s_gesture_summary">วาดตัว \"S\" เพื่อเปิดแอปสำหรับส่งข้อความ</string>

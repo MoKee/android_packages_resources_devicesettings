@@ -25,6 +25,7 @@
     <string name="touchscreen_c_gesture_summary">কেমেৰা সক্ৰিয় কৰিবলৈ \"C\" আঁকক</string>
     <string name="touchscreen_e_gesture_title">ইমেইল</string>
     <string name="touchscreen_e_gesture_summary">ইমেইল এপ্পটো খোলিবলৈ \"e\" আঁকক</string>
+    <string name="touchscreen_m_gesture_title">মেছেজিং</string>
     <string name="touchscreen_s_gesture_title">মেছেজিং</string>
     <string name="touchscreen_s_gesture_summary">মেছেজিং এপ্পটো খোলিবলৈ \"S\" আঁকক</string>
     <string name="touchscreen_v_gesture_title">ডায়েলাৰ</string>
@@ -54,4 +55,7 @@
     <string name="feedback_intensity_low">নিম্ন</string>
     <string name="feedback_intensity_medium">মাধ্যম</string>
     <string name="feedback_intensity_high">উচ্চ</string>
+    <string name="fingerprint_pocketmode_title">দুৰ্ঘটনাক্ৰমে ৱেক-আপ হোৱাটো প্ৰতিৰোধ কৰক</string>
+    <string name="high_touch_sensitivity_title">উচ্চ স্পৰ্শ সংবেদনশীলতা</string>
+    <string name="high_touch_sensitivity_summary">টাচ্চস্ক্ৰীণৰ সংবেদনশীলতা বৃদ্ধি কৰক যাতে হাতমোজা পিন্ধি থাকিলেও ইয়াক ব্যৱহাৰ কৰিব পাৰি</string>
 </resources>

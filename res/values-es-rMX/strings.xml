@@ -17,14 +17,20 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">Sí</string>
+    <string name="switch_bar_off">Desactivado</string>
     <string name="device_settings_app_name">Ajustes avanzados</string>
     <string name="screen_gestures_panel_title">Gestos</string>
     <string name="touchscreen_gesture_extras">Extras</string>
     <string name="touchscreen_gesture_haptic_feedback">Respuesta háptica</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar cuando se detecta un gesto táctil</string>
+    <string name="touchscreen_gesture_settings_title">Gestos en pantalla táctil</string>
+    <string name="touchscreen_gesture_settings_summary">Realizar varios gestos en pantalla para acciones rápidas</string>
     <string name="touchscreen_c_gesture_title">Cámara</string>
     <string name="touchscreen_c_gesture_summary">Dibuja una \"C\" para activar la cámara</string>
     <string name="touchscreen_e_gesture_title">Correo electrónico</string>
     <string name="touchscreen_e_gesture_summary">Dibuja una \"e\" para abrir la aplicación correo electrónico</string>
+    <string name="touchscreen_m_gesture_title">Mensajes</string>
     <string name="touchscreen_s_gesture_title">Centro de mensajes</string>
     <string name="touchscreen_s_gesture_summary">Dibuja una \"S\" para abrir la aplicación de mensajería</string>
     <string name="touchscreen_v_gesture_title">Marcador</string>
@@ -33,6 +39,24 @@
     <string name="touchscreen_w_gesture_summary">Dibuja una \"W\" para abrir la aplicación del navegador</string>
     <string name="touchscreen_z_gesture_title">Linterna</string>
     <string name="touchscreen_z_gesture_summary">Dibuja una \"Z\" para conmutar la linterna</string>
+    <string name="touchscreen_flashlight_gesture_title">Linterna</string>
+    <string name="touchscreen_music_gesture_title">Música</string>
+    <string name="ambient_display_title">Pantalla ambiente</string>
+    <string name="ambient_display_enable_title">Pantalla ambiente</string>
     <string name="ambient_display_always_on_title">Siempre encendida</string>
     <string name="ambient_display_always_on_summary">Mostrar la hora, los iconos de notificación y otra información. Aumenta el uso de batería.</string>
+    <string name="actions_title">Acciones</string>
+    <string name="action_none">Desactivar</string>
+    <string name="action_launch_camera">Iniciar cámara</string>
+    <string name="feedback_intensity_none">Deshabilitado</string>
+    <string name="feedback_intensity_low">Baja</string>
+    <string name="feedback_intensity_medium">Media</string>
+    <string name="feedback_intensity_high">Alta</string>
+    <string name="dialog_ok">Aceptar</string>
+    <string name="doze_settings_help_title">Ayuda</string>
+    <string name="button_panel_title">Botones adicionales</string>
+    <string name="fingerprint_title">Huella dactilar</string>
+    <string name="fingerprint_pocketmode_title">Prevenir encendido accidental</string>
+    <string name="high_touch_sensitivity_title">Alta sensibilidad táctil</string>
+    <string name="high_touch_sensitivity_summary">Incrementar la sensibilidad del panel táctil para que pueda usarse llevando guantes</string>
 </resources>

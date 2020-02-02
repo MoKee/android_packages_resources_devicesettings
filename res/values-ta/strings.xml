@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_off">அணை</string>
     <string name="device_settings_app_name">மேம்பட்ட அமைப்புகள்</string>
     <string name="screen_gestures_panel_title">சைகைகள்</string>
     <string name="touchscreen_gesture_extras">உதிரிகள்</string>
@@ -25,6 +26,7 @@
     <string name="touchscreen_c_gesture_summary">கேமரா செயல்படுத்த ஒரு \"C\" வரை</string>
     <string name="touchscreen_e_gesture_title">மின்னஞ்சல்</string>
     <string name="touchscreen_e_gesture_summary">மின்னஞ்சல் பயன்பாட்டை திறக்க ஒரு \"e\" வரை</string>
+    <string name="touchscreen_m_gesture_title">செய்தியிடல்</string>
     <string name="touchscreen_s_gesture_title">செய்தியிடல்</string>
     <string name="touchscreen_s_gesture_summary">செய்தி பயன்பாட்டை திறக்க ஒரு \"S\" வரை</string>
     <string name="touchscreen_v_gesture_title">டயலர்</string>
@@ -33,6 +35,7 @@
     <string name="touchscreen_w_gesture_summary">உலாவி பயன்பாட்டை திறக்க ஒரு \"W\" வரை</string>
     <string name="touchscreen_z_gesture_title">ஃபிளாஷ்லைட்</string>
     <string name="touchscreen_z_gesture_summary">ஃப்ளாஷ்லைட் நிலைமாறுவதற்கு ஒரு \"Z\" வரை</string>
+    <string name="touchscreen_flashlight_gesture_title">ஃபிளாஷ்லைட்</string>
     <string name="user_aware_display_title">பயனர்-அறிந்த காட்சி</string>
     <string name="user_aware_display_summary">பயனர் காட்சிக்கு முன் இருக்கும்போது திரையை ஆன்-இல் வைக்கவும்</string>
     <string name="ambient_display_title">தன்னிச்சையான திரைஒளிர்வமைப்பு</string>
@@ -54,4 +57,8 @@
     <string name="feedback_intensity_low">குறைந்த தரம்</string>
     <string name="feedback_intensity_medium">நடுத்தரம்</string>
     <string name="feedback_intensity_high">உயர்தரம்</string>
+    <string name="dialog_ok">சரி</string>
+    <string name="fingerprint_pocketmode_title">தற்செயலான விழித்தலை தடு</string>
+    <string name="high_touch_sensitivity_title">உயர்ந்த தொடல் உணர்திறன்</string>
+    <string name="high_touch_sensitivity_summary">கையுறை அணிந்தும் அதை பயன்படுத்தும்படி தொடல்திறை உணர்திறனை அதிகரிக்கவும்</string>
 </resources>

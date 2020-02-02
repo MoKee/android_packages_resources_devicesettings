@@ -23,6 +23,9 @@
     <string name="screen_gestures_panel_title">Gebare</string>
     <string name="touchscreen_gesture_extras">Ekstras</string>
     <string name="touchscreen_gesture_haptic_feedback">Haptiese terugvoer</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Vibreer wanneer \'n raakskermgebaar opgespoor is</string>
+    <string name="touchscreen_gesture_settings_title">Raakskerm gebare</string>
+    <string name="touchscreen_gesture_settings_summary">Verrig verskeie raakskerm gebare vir vinnige aksies</string>
     <string name="gesture_display_title">Skerm af gebare</string>
     <string name="touchscreen_c_gesture_title">Kamera</string>
     <string name="touchscreen_c_gesture_summary">Teken \'n \"C\" om Kamera to aktiveer</string>
@@ -53,6 +56,7 @@
     <string name="ambient_display_summary">Skerm sal wakker word wanneer jy kennisgewings ontvang</string>
     <string name="ambient_display_summary_on">Skerm sal aan gaan wanneer jy kennisgewings ontvang</string>
     <string name="ambient_display_summary_off">Skerm sal nie aan gaan nie wanneer jy kennisgewings ontvang</string>
+    <string name="ambient_display_always_on_title">Altyd aan</string>
     <string name="tilt_sensor_title">Kantel sensor</string>
     <string name="proximity_sensor_title">Nabyheid sensor</string>
     <string name="hand_wave_gesture_title">Hand waai</string>
@@ -102,4 +106,6 @@
     <string name="fingerprint_pocketmode_summary">Kontroleer die nabyheidsensor voor wakkerword, veroorsaak deur die vingerafdruk sensor</string>
     <string name="fingerprint_sleep_title">Vingerafdruk slaap</string>
     <string name="fingerprint_sleep_summary">Druk die Vingerafdruk sensor om skerm af te skakel</string>
+    <string name="high_touch_sensitivity_title">Hoë raak sensitiwiteit</string>
+    <string name="high_touch_sensitivity_summary">Verhoog skerm sensitiwiteit, sodat dit kan gebruik word met die dra van handskoene</string>
 </resources>

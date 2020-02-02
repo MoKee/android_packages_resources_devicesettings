@@ -25,6 +25,7 @@
     <string name="touchscreen_c_gesture_summary">కెమెరాను ఉత్తేజపరచటానికి కావలసిన ఒక \"C\" డ్రా</string>
     <string name="touchscreen_e_gesture_title">ఇమెయిల్</string>
     <string name="touchscreen_e_gesture_summary">ఇమెయిల్ అనువర్తనం తెరవడానికి \"e\" డ్రా</string>
+    <string name="touchscreen_m_gesture_title">సందేశ సేవ</string>
     <string name="touchscreen_s_gesture_title">సందేశం</string>
     <string name="touchscreen_s_gesture_summary">సందేశ అనువర్తనం తెరవడానికి ఒక \"S\" డ్రా</string>
     <string name="touchscreen_v_gesture_title">డయలర్</string>
@@ -54,4 +55,7 @@
     <string name="feedback_intensity_low">తక్కువ</string>
     <string name="feedback_intensity_medium">మధ్యరకం</string>
     <string name="feedback_intensity_high">ఎక్కువ</string>
+    <string name="fingerprint_pocketmode_title">అప్రయత్నంగా మేల్కొల్పబడటాన్ని నివారించండి</string>
+    <string name="high_touch_sensitivity_title">అధిక స్పర్శ సున్నితత్వం</string>
+    <string name="high_touch_sensitivity_summary">టచ్ స్క్రీన్ సున్నితత్వాన్ని పెంచండి ఎందుకంటే చేతి తొడుగులు వేసుకున్నప్పుడు అది ఉపయోగపడుతుంది</string>
 </resources>
