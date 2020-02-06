@@ -34,6 +34,11 @@
     <string name="touchscreen_z_gesture_title">Torcia</string>
     <string name="touchscreen_flashlight_gesture_title">Torcia</string>
     <string name="touchscreen_music_gesture_title">Musica</string>
+    <string name="touchscreen_music_gesture_summary">Usa le gesture per controllare la riproduzione musicale\n
+• Scorri verso il basso per play/pausa\n
+• Scorri verso sinistra per la traccia precedente\n
+• Scorri verso destre per la traccia sucessiva</string>
+    <string name="touchscreen_swipe_left_title">Swipe a sinistra</string>
     <string name="ambient_display_title">Display Ambient</string>
     <string name="ambient_display_enable_title">Display Ambient</string>
     <string name="ambient_display_always_on_title">Sempre accesso</string>
