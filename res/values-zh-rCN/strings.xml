@@ -116,4 +116,8 @@
     <string name="fingerprint_sleep_summary">按下指纹传感器来关闭屏幕</string>
     <string name="high_touch_sensitivity_title">触摸屏高灵敏度</string>
     <string name="high_touch_sensitivity_summary">增加触摸屏的灵敏度，以便在戴手套时使用</string>
+    <string name="quick_charge_title">快速充电</string>
+    <string name="quick_charge_summary">切换快速充电。更改此设置后，请拔出充电器再重新插入</string>
+    <string name="camera_focus_fix_title">相机对焦修复</string>
+    <string name="camera_focus_fix_summary">如果您的相机对焦有问题，请启用此项</string>
 </resources>

@@ -116,4 +116,8 @@
     <string name="fingerprint_sleep_summary">Naciśnij czytnik linii papilarnych, aby wyłączyć ekran</string>
     <string name="high_touch_sensitivity_title">Wysoka czułość dotyku</string>
     <string name="high_touch_sensitivity_summary">Zwiększa czułość ekranu dotykowego, więc możesz go używać podczas noszenia rękawiczek</string>
+    <string name="quick_charge_title">Szybkie ładowanie</string>
+    <string name="quick_charge_summary">Szybkie ładowanie. Po zmianie tego ustawienia, odłącz i ponownie podłącz ładowarkę</string>
+    <string name="camera_focus_fix_title">Naprawa autofokusa kamery</string>
+    <string name="camera_focus_fix_summary">Włącz jeśli masz problemy z fokusem w aparacie </string>
 </resources>

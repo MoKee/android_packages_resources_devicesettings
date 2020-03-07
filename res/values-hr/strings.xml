@@ -21,6 +21,10 @@
     <string name="switch_bar_off">Isključen</string>
     <string name="screen_gestures_panel_title">Geste</string>
     <string name="touchscreen_gesture_extras">Dodaci</string>
+    <string name="touchscreen_gesture_haptic_feedback">Dodirna povratna informacija</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Vibriraj kada se otkrije gesta na dodirnom zaslonu</string>
+    <string name="touchscreen_gesture_settings_title">Geste zaslona</string>
+    <string name="touchscreen_gesture_settings_summary">Razne geste zaslona za brze radnje</string>
     <string name="touchscreen_c_gesture_title">Fotoaparat</string>
     <string name="touchscreen_e_gesture_title">E-pošta</string>
     <string name="touchscreen_m_gesture_title">Poruke</string>

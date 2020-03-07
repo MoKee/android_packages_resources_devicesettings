@@ -116,4 +116,8 @@
     <string name="fingerprint_sleep_summary">Ekraani väljalülitamiseks vajutage sõrmejäljelugejale</string>
     <string name="high_touch_sensitivity_title">Kõrge puutetundlikus</string>
     <string name="high_touch_sensitivity_summary">Suurenda puuteekraani tundlikust, et saaksid seda kasutada kindaid kandes</string>
+    <string name="quick_charge_title">Kiirlaadimine</string>
+    <string name="quick_charge_summary">Lülita kiirlaadimine sisse. Pärast selle sätte muutmist ühendage laadija lahti ja ühendage uuesti vooluvõrku</string>
+    <string name="camera_focus_fix_title">Kaamera fookuse fikseerimine</string>
+    <string name="camera_focus_fix_summary">Lubage, kui teil on probleeme kaamera mittefookustamisega</string>
 </resources>
