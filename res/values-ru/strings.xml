@@ -116,4 +116,8 @@
     <string name="fingerprint_sleep_summary">Прикаснитесь к сканеру отпечатка пальца для отключения экрана</string>
     <string name="high_touch_sensitivity_title">Режим \"в перчатках\"</string>
     <string name="high_touch_sensitivity_summary">Увеличить чувствительность экрана для возможности работы в перчатках</string>
+    <string name="quick_charge_title">Быстрая зарядка</string>
+    <string name="quick_charge_summary">Быстрая зарядка. Отсоедините и подключите зарядное устройство к сети после изменения данной настройки.</string>
+    <string name="camera_focus_fix_title">Фиксация фокуса камеры</string>
+    <string name="camera_focus_fix_summary">Включите, если у вас есть проблемы с фокусировкой камеры</string>
 </resources>
