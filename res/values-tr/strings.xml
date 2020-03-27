@@ -116,4 +116,7 @@
     <string name="fingerprint_sleep_summary">Ekranı kapatmak için parmak izi sensörüne dokunun</string>
     <string name="high_touch_sensitivity_title">Yüksek dokunmatik hassasiyeti</string>
     <string name="high_touch_sensitivity_summary">Dokunmatik ekran hassasiyetini arttırarak eldiven ile kullanıma olanak verir</string>
+    <string name="quick_charge_title">Hızlı şarj</string>
+    <string name="quick_charge_summary">Hızlı şarjı etkinleştirin/etkisizleştirin. Bu ayarı değiştirdikten sonra şarj aletini söküp tekrar bağlayın.</string>
+    <string name="camera_focus_fix_summary">Kamera odaklanmasıyla ilgili sorunlar yaşıyorsanız bunu etkinleştirin.</string>
 </resources>
