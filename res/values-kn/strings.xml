@@ -22,6 +22,9 @@
     <string name="screen_gestures_panel_title">ಸನ್ನೆ</string>
     <string name="touchscreen_gesture_extras">ಹೆಚ್ಚುವರಿ</string>
     <string name="touchscreen_gesture_haptic_feedback">ಸ್ಪಾರ್ಶ ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">ಯಾವಾಗ ಒಂದು ಸ್ಪರ್ಶಪರದೆ ಸನ್ನೆ ಪತ್ತೆಯಾಗುವುದೋ ಆಗ ಕಂಪಿಸು</string>
+    <string name="touchscreen_gesture_settings_title">ಸ್ಪರ್ಷಪರದೆಯ ಸನ್ನೆಗಳು</string>
+    <string name="touchscreen_gesture_settings_summary">ತ್ವರಿತ ಪ್ರತಿಕ್ರಿಯೆಗಾಗಿ ಸ್ಪರ್ಶಪರದೆ ಮೇಲೆ ವಿವಿಧ ಸನ್ನೆಗಳನ್ನು ಮಾಡು</string>
     <string name="touchscreen_c_gesture_title">ಕ್ಯಾಮರಾ</string>
     <string name="touchscreen_c_gesture_summary">ಕ್ಯಾಮೆರಾ ಸಕ್ರಿಯಗೊಳಿಸಲು ಒಂದು ವೃತ್ತವನ್ನು ಬರೆಯಿರಿ</string>
     <string name="touchscreen_e_gesture_title">ಇಮೇಲ್</string>
