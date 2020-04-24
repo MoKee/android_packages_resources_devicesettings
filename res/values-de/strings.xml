@@ -115,5 +115,4 @@
     <string name="fingerprint_sleep_summary">Fingerabdrucksensor berühren, um das Display auszuschalten</string>
     <string name="high_touch_sensitivity_title">Hohe Berührempfindlichkeit</string>
     <string name="high_touch_sensitivity_summary">Berührmpfindlichkeit erhöhen, um den Touchscreen auch mit Handschuhen bedienen zu können</string>
-    <string name="camera_focus_fix_summary">Aktivieren Sie diese Option, wenn Sie Probleme mit der Scharfstellung der Kamera haben</string>
 </resources>

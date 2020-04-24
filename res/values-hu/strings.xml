@@ -117,6 +117,6 @@
     <string name="high_touch_sensitivity_summary">Érintőképernyő érzékenységének növelése, így kesztyű viselése esetén is használható</string>
     <string name="quick_charge_title">Gyorstöltés</string>
     <string name="quick_charge_summary">A gyorstöltés kapcsolója. Ha megváltoztatta ezt a beállítást, utána csatlakoztassa le, majd újra fel a készüléket</string>
-    <string name="camera_focus_fix_title">Fókuszrögzítő</string>
+    <string name="camera_focus_fix_title">Rögzített fókusz</string>
     <string name="camera_focus_fix_summary">Akkor engedélyezze ezt, ha a készülék kamerája nem képes fókuszálni</string>
 </resources>

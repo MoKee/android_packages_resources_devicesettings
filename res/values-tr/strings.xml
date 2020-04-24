@@ -116,7 +116,7 @@
     <string name="high_touch_sensitivity_title">Yüksek dokunmatik hassasiyet</string>
     <string name="high_touch_sensitivity_summary">Dokunmatik ekran hassasiyetini artırır, böylece eldiven giyerken kullanılabilir</string>
     <string name="quick_charge_title">Hızlı şarj</string>
-    <string name="quick_charge_summary">Hızlı şarjı etkinleştirin veya devre dışı bırakın. Bu ayarı değiştirdikten sonra şarj aletini çıkarıp yeniden takın</string>
+    <string name="quick_charge_summary">Hızlı şarjı açın veya kapatın. Bu ayarı değiştirdikten sonra şarj cihazını çıkarıp yeniden takın</string>
     <string name="camera_focus_fix_title">Kamera odak düzeltmesi</string>
-    <string name="camera_focus_fix_summary">Kamera odaklanmasıyla ilgili sorunlar yaşıyorsanız bunu etkinleştirin </string>
+    <string name="camera_focus_fix_summary">Kamera odaklanmasıyla ilgili sorunlar yaşıyorsanız bunu etkinleştirin</string>
 </resources>

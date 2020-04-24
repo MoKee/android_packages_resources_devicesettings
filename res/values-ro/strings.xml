@@ -115,8 +115,4 @@
     <string name="fingerprint_sleep_summary">Apăsaţi senzorul de amprentă digitală pentru a opri ecranul</string>
     <string name="high_touch_sensitivity_title">Sensibilitate tactilă crescută</string>
     <string name="high_touch_sensitivity_summary">Crește sensibilitatea ecranului tactil astfel încât acesta poate fi utilizat în timp ce se poartă mănuși</string>
-    <string name="quick_charge_title">Încărcare rapidă</string>
-    <string name="quick_charge_summary">Comutare încărcare rapidă. Reconectați încărcătorul după schimbarea acestei setări</string>
-    <string name="camera_focus_fix_title">Remediere focalizare cameră</string>
-    <string name="camera_focus_fix_summary">Activați în cazul în care aveți probleme la focalizare</string>
 </resources>
