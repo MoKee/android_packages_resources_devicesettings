@@ -16,24 +16,24 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Вкл</string>
-    <string name="switch_bar_off">Откл</string>
+    <string name="switch_bar_on">Включено</string>
+    <string name="switch_bar_off">Выключено</string>
     <string name="device_settings_app_name">Дополнительные настройки</string>
     <string name="screen_gestures_panel_title">Жесты</string>
     <string name="touchscreen_gesture_extras">Прочее</string>
     <string name="touchscreen_gesture_haptic_feedback">Виброотклик</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Вибрировать при распознавании жеста</string>
-    <string name="touchscreen_gesture_settings_title">Экранные жесты</string>
+    <string name="touchscreen_gesture_settings_title">Жесты сенсорного экрана</string>
     <string name="touchscreen_gesture_settings_summary">Настройка жестов сенсорного экрана для выполнения действий</string>
-    <string name="gesture_display_title">Жесты на выключенном экране</string>
+    <string name="gesture_display_title">Жесты выключенного экрана</string>
     <string name="touchscreen_c_gesture_title">Камера</string>
     <string name="touchscreen_c_gesture_summary">Нарисуйте букву «C», чтобы включить камеру</string>
     <string name="touchscreen_e_gesture_title">Эл. почта</string>
-    <string name="touchscreen_e_gesture_summary">Нарисуйте букву «е», чтобы открыть почту</string>
+    <string name="touchscreen_e_gesture_summary">Нарисуйте букву «е», чтобы открыть приложение электронной почты</string>
     <string name="touchscreen_m_gesture_title">Сообщения</string>
-    <string name="touchscreen_m_gesture_summary">Нарисуйте букву «M», чтобы открыть сообщения</string>
+    <string name="touchscreen_m_gesture_summary">Нарисуйте букву «M», чтобы открыть приложение для обмена сообщениями</string>
     <string name="touchscreen_s_gesture_title">Сообщения</string>
-    <string name="touchscreen_s_gesture_summary">Нарисуйте букву «S», чтобы открыть сообщения</string>
+    <string name="touchscreen_s_gesture_summary">Нарисуйте букву «S», чтобы открыть приложение для обмена сообщениями</string>
     <string name="touchscreen_v_gesture_title">Телефон</string>
     <string name="touchscreen_v_gesture_summary">Нарисуйте букву «V», чтобы открыть телефон</string>
     <string name="touchscreen_w_gesture_title">Браузер</string>
@@ -43,9 +43,9 @@
     <string name="touchscreen_flashlight_gesture_title">Фонарик</string>
     <string name="touchscreen_flashlight_gesture_summary">Нарисуйте круг, чтобы включить или выключить фонарик</string>
     <string name="touchscreen_music_gesture_title">Музыка</string>
-    <string name="touchscreen_music_gesture_summary">Использовать жесты для управления воспроизведением музыки
-    • Свайп вниз — воспроизведение/пауза
-    • Свайп влево — предыдущий трек
+    <string name="touchscreen_music_gesture_summary">Использовать жесты для управления воспроизведением музыки \n
+    • Свайп вниз — воспроизведение/пауза\n
+    • Свайп влево — предыдущий трек\n
     • Свайп вправо — следующий трек</string>
     <string name="touchscreen_swipe_up_title">Свайп вверх</string>
     <string name="touchscreen_swipe_right_title">Свайп вправо</string>
@@ -55,26 +55,26 @@
     <string name="user_aware_display_summary">Не отключать экран, пока пользователь находится перед ним</string>
     <string name="ambient_display_title">Индикация событий</string>
     <string name="ambient_display_enable_title">Индикация событий</string>
-    <string name="ambient_display_enable_summary">Пробуждать экран при новом уведомлении</string>
+    <string name="ambient_display_enable_summary">Включать экран при получении уведомлений</string>
     <string name="ambient_display_gestures_title">Жесты Ambient Display</string>
     <string name="ambient_display_gestures_summary">Дополнительные жесты для пробуждения экрана</string>
-    <string name="ambient_display_summary">Пробуждать экран при новом уведомлении</string>
+    <string name="ambient_display_summary">Включать экран при получении уведомлений</string>
     <string name="ambient_display_summary_on">Включать экран при получении уведомлений</string>
-    <string name="ambient_display_summary_off">Экран не будет включаться, когда вы получаете уведомления</string>
+    <string name="ambient_display_summary_off">Не включать экран при получении уведомлений</string>
     <string name="ambient_display_always_on_title">Всегда включен</string>
     <string name="ambient_display_always_on_summary">Показывать время, значки уведомлений и другую информацию. Увеличивает расход батареи.</string>
     <string name="tilt_sensor_title">Датчик наклона</string>
     <string name="pickup_sensor_title">Датчик движения</string>
     <string name="proximity_sensor_title">Датчик приближения</string>
     <string name="hand_wave_gesture_title">Взмах рукой</string>
-    <string name="hand_wave_gesture_summary">Показ уведомлений при взмахе рукой</string>
-    <string name="hand_wave_gesture_flat_title">Определять положение устройства</string>
+    <string name="hand_wave_gesture_summary">Проведите ладонью над экраном для просмотра уведомлений</string>
+    <string name="hand_wave_gesture_flat_title">Учитывать положение устройства</string>
     <string name="hand_wave_gesture_flat_summary">Показывать уведомления только тогда, когда телефон лежит на плоской поверхности экраном вверх</string>
     <string name="pick_up_gesture_title">Поднять</string>
     <string name="pick_up_gesture_summary">Отображать уведомления при поднятии устройства</string>
-    <string name="pocket_gesture_title">В кармане</string>
+    <string name="pocket_gesture_title">Карман</string>
     <string name="pocket_gesture_summary">Отображать уведомления при извлечении устройства из кармана</string>
-    <string name="proximity_wake_title">Пробуждение по датчикам</string>
+    <string name="proximity_wake_title">Включение по датчикам</string>
     <string name="proximity_wake_enable_title">Включение по датчикам</string>
     <string name="proximity_wake_enable_summary">Проведите ладонью над экраном, чтобы вывести устройство из режима сна</string>
     <string name="actions_title">Действия</string>
@@ -116,7 +116,7 @@
     <string name="high_touch_sensitivity_title">Высокая чувствительность касания</string>
     <string name="high_touch_sensitivity_summary">Увеличить чувствительность экрана для возможности работы в перчатках</string>
     <string name="quick_charge_title">Быстрая зарядка</string>
-    <string name="quick_charge_summary">Быстрая зарядка. Отсоедините и подключите зарядное устройство к сети после изменения данной настройки.</string>
-    <string name="camera_focus_fix_title">Фиксация фокуса камеры</string>
+    <string name="quick_charge_summary">Быстрая зарядка. Отсоедините и повторно подключите зарядное устройство после изменения данной настройки.</string>
+    <string name="camera_focus_fix_title">Исправить фокусировку камеры</string>
     <string name="camera_focus_fix_summary">Включите, если у вас есть проблемы с фокусировкой камеры</string>
 </resources>

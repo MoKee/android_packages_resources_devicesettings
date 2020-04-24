@@ -56,6 +56,7 @@
     <string name="ambient_display_title">Амбијентални екран</string>
     <string name="ambient_display_enable_title">Амбијентални екран</string>
     <string name="ambient_display_enable_summary">Пробудите екран када примите обавештења.</string>
+    <string name="ambient_display_gestures_title">Гестови амбијенталног екрана</string>
     <string name="ambient_display_gestures_summary">Додатни гестови за буђење екрана</string>
     <string name="ambient_display_summary">Пробудите екран када примите обавештења.</string>
     <string name="ambient_display_summary_on">Екран ће се пробудити када примите обавештења.</string>
