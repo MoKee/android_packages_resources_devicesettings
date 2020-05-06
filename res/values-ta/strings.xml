@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">இயக்கு</string>
     <string name="switch_bar_off">அணை</string>
     <string name="device_settings_app_name">மேம்பட்ட அமைப்புகள்</string>
     <string name="screen_gestures_panel_title">சைகைகள்</string>
@@ -41,6 +42,7 @@
     <string name="ambient_display_title">தன்னிச்சையான திரைஒளிர்வமைப்பு</string>
     <string name="ambient_display_enable_title">தன்னிச்சையான திரைஒளிர்வமைப்பு</string>
     <string name="ambient_display_enable_summary">செய்திகள் பெறுகையில் திரையை இயக்கு</string>
+    <string name="ambient_display_always_on_title">எப்போதும் ஆன்</string>
     <string name="hand_wave_gesture_title">கை அசைவு</string>
     <string name="hand_wave_gesture_summary">கை அசைவில் துடிப்பு அறிவிப்பை இயக்கு</string>
     <string name="pocket_gesture_title">பை</string>
