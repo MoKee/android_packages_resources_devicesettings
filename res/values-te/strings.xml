@@ -17,10 +17,14 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">ఆన్</string>
+    <string name="switch_bar_off">ఆఫ్‌లో ఉంది</string>
     <string name="touchscreen_c_gesture_title">కెమెరా</string>
     <string name="touchscreen_e_gesture_title">ఈమెయిల్‌</string>
     <string name="touchscreen_m_gesture_title">సందేశ సేవ</string>
     <string name="touchscreen_s_gesture_title">సందేశ సేవ</string>
+    <string name="touchscreen_z_gesture_title">ఫ్లాష్లైట్</string>
+    <string name="touchscreen_flashlight_gesture_title">ఫ్లాష్లైట్</string>
     <string name="ambient_display_title">యాంబియెంట్ డిస్‌ప్లే</string>
     <string name="ambient_display_enable_title">యాంబియెంట్ డిస్‌ప్లే</string>
     <string name="action_launch_camera">కెమెరాను ప్రారంభించు</string>

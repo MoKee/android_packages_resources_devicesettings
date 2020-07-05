@@ -17,17 +17,30 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">இயக்கு</string>
     <string name="switch_bar_off">அணை</string>
+    <string name="touchscreen_gesture_extras">கூடுதல் அம்சங்கள்</string>
+    <string name="touchscreen_gesture_haptic_feedback">தீண்டும் பின்னூட்டம்</string>
+    <string name="touchscreen_gesture_settings_title">தொடுத்திரை சைகைகள்</string>
     <string name="touchscreen_c_gesture_title">கேமரா</string>
     <string name="touchscreen_e_gesture_title">மின்னஞ்சல்</string>
     <string name="touchscreen_m_gesture_title">செய்தியிடல்</string>
     <string name="touchscreen_s_gesture_title">செய்தியிடல்</string>
+    <string name="touchscreen_w_gesture_title">உலாவி</string>
     <string name="touchscreen_z_gesture_title">ஃபிளாஷ்லைட்</string>
     <string name="touchscreen_flashlight_gesture_title">ஃபிளாஷ்லைட்</string>
     <string name="ambient_display_title">சூழல்சார் திரை</string>
     <string name="ambient_display_enable_title">சூழல்சார் திரை</string>
+    <string name="ambient_display_always_on_title">எப்போதும் ஆன்</string>
+    <string name="action_none">முடக்கு</string>
     <string name="action_launch_camera">கேமராவை தொடங்கு</string>
+    <string name="feedback_intensity_none">முடக்கு</string>
+    <string name="feedback_intensity_low">குறைவு</string>
+    <string name="feedback_intensity_high">உயர்தரம்</string>
     <string name="dialog_ok">சரி</string>
+    <string name="doze_settings_help_title">உதவி</string>
+    <string name="button_panel_title">கூடுதல் பொத்தான்கள்</string>
+    <string name="fingerprint_title">கைரேகை</string>
     <string name="fingerprint_pocketmode_title">தற்செயலான விழித்தலை தடு</string>
     <string name="high_touch_sensitivity_title">உயர்ந்த தொடல் உணர்திறன்</string>
     <string name="high_touch_sensitivity_summary">கையுறை அணிந்தும் அதை பயன்படுத்தும்படி தொடல்திறை உணர்திறனை அதிகரிக்கவும்</string>
