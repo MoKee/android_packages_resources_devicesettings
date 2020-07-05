@@ -16,6 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">ఆన్</string>
+    <string name="switch_bar_off">ఆఫ్‌లో ఉంది</string>
     <string name="device_settings_app_name">ఆధునిక సెట్టింగులు</string>
     <string name="screen_gestures_panel_title">సైగలు</string>
     <string name="touchscreen_gesture_extras">అధికమైనవి</string>
@@ -33,6 +35,7 @@
     <string name="touchscreen_w_gesture_summary">బ్రౌజర్ అనువర్తనం తెరవడానికి ఒక \"W\" డ్రా</string>
     <string name="touchscreen_z_gesture_title">ఫ్లాష్లైట్</string>
     <string name="touchscreen_z_gesture_summary">ఫ్లాష్లైట్ మార్చడానికి ఒక \"Z\" డ్రా</string>
+    <string name="touchscreen_flashlight_gesture_title">ఫ్లాష్లైట్</string>
     <string name="user_aware_display_title">యూసర్-అవేర్ డిస్ప్లే</string>
     <string name="user_aware_display_summary">యూసర్ వాడేటప్పుడు స్క్రీన్ ఆన్ ఉంచండి</string>
     <string name="ambient_display_title">ఆధునిక(పరిసర) డిస్ప్లే</string>
