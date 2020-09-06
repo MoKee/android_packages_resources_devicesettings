@@ -30,6 +30,8 @@
     <string name="touchscreen_m_gesture_title">Ανταλλαγή μηνυμάτων</string>
     <string name="touchscreen_s_gesture_title">Ανταλλαγή μηνυμάτων</string>
     <string name="touchscreen_w_gesture_title">Περιηγητής</string>
+    <string name="touchscreen_z_gesture_title">Φακός</string>
+    <string name="touchscreen_flashlight_gesture_title">Φακός</string>
     <string name="touchscreen_music_gesture_title">Μουσική</string>
     <string name="ambient_display_title">Οθόνη ambient</string>
     <string name="ambient_display_enable_title">Οθόνη ambient</string>
