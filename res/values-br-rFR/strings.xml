@@ -20,9 +20,12 @@
     <string name="switch_bar_on">Enaouet</string>
     <string name="switch_bar_off">Lazhet</string>
     <string name="device_settings_app_name">Arventennoù kempleshoc\'h</string>
+    <string name="touchscreen_gesture_haptic_feedback">Distro haptik</string>
     <string name="touchscreen_c_gesture_title">Kamera</string>
     <string name="touchscreen_e_gesture_title">Postel</string>
     <string name="touchscreen_w_gesture_title">Merdeer</string>
+    <string name="touchscreen_z_gesture_title">Lampig-cʼhodell</string>
+    <string name="touchscreen_flashlight_gesture_title">Lampig-cʼhodell</string>
     <string name="action_none">Diweredekaat</string>
     <string name="feedback_intensity_none">Diweredekaet</string>
     <string name="feedback_intensity_low">Izel</string>
