@@ -19,6 +19,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="switch_bar_on">Aktivizuar</string>
     <string name="switch_bar_off">Çaktivizuar</string>
+    <string name="touchscreen_gesture_extras">Ekstra</string>
     <string name="touchscreen_gesture_haptic_feedback">Reagimi haptik</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Dridhu kur zbulohet një gjest me prekje ekrani</string>
     <string name="touchscreen_gesture_settings_title">Gjestet me prekje ekrani</string>
@@ -39,9 +40,12 @@
     <string name="feedback_intensity_low">E ulët</string>
     <string name="feedback_intensity_medium">Mesatar</string>
     <string name="feedback_intensity_high">E lartë</string>
+    <string name="dialog_ok">Në rregull</string>
     <string name="doze_settings_help_title">Ndihmë</string>
+    <string name="button_panel_title">Butona të tjerë</string>
     <string name="fingerprint_pocketmode_title">Parandalo zgjimin aksidental</string>
     <string name="high_touch_sensitivity_title">Ndjesi e lartë e prekjes</string>
+    <string name="high_touch_sensitivity_summary">Rrit ndjeshmërinë e prekjes kështu që mund të përdoret kur keni dorashka</string>
     <string name="quick_charge_title">Karikim i shpejtë</string>
     <string name="quick_charge_summary">Çelsi për karikim të shpejtë. Hiqni dhe vendosni sërish karikuesin pasi të ndryshoni këtë cilësim</string>
     <string name="camera_focus_fix_title">Rregullim i fokusit të kamerës</string>
