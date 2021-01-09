@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">Быстрая зарядка. Отсоедините и подключите зарядное устройство к сети после изменения данной настройки.</string>
     <string name="camera_focus_fix_title">Фиксация фокуса камеры</string>
     <string name="camera_focus_fix_summary">Включите, если у вас есть проблемы с фокусировкой камеры</string>
+    <string name="wake_on_gesture_title">Пробуждение жестами</string>
+    <string name="wake_on_gesture_summary">Пробуждение устройства вместо пульсации уведомлений при использовании жестов</string>
 </resources>
