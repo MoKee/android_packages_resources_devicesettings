@@ -119,4 +119,6 @@
     <string name="quick_charge_summary">切換快速充電。更改此設定後，請拔下充電器並重新插入</string>
     <string name="camera_focus_fix_title">相機對焦修復</string>
     <string name="camera_focus_fix_summary">如果你的相機有對焦問題，請啟用此選項</string>
+    <string name="wake_on_gesture_title">以手勢喚醒裝置</string>
+    <string name="wake_on_gesture_summary">手勢事件喚醒裝置而非顯示通知</string>
 </resources>
