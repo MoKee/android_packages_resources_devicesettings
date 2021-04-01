@@ -17,9 +17,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">Ymlaen</string>
+    <string name="touchscreen_c_gesture_title">Camera</string>
     <string name="touchscreen_m_gesture_title">Negesu</string>
     <string name="touchscreen_s_gesture_title">Negesu</string>
     <string name="touchscreen_w_gesture_title">Porwr</string>
+    <string name="ambient_display_title">Dangosydd amgylchynol</string>
+    <string name="ambient_display_enable_title">Dangosydd amgylchynol</string>
     <string name="ambient_display_always_on_title">Ymlaen o hyd</string>
     <string name="feedback_intensity_none">Wedi\'i analluogi</string>
     <string name="dialog_ok">Iawn</string>

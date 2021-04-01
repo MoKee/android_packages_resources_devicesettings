@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_off">ഓഫാണ്</string>
     <string name="touchscreen_c_gesture_title">ക്യാമറ</string>
     <string name="touchscreen_e_gesture_title">ഇമെയിൽ</string>
     <string name="touchscreen_m_gesture_title">സന്ദേശമയയ്‌ക്കൽ</string>

@@ -17,6 +17,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_off">Dheth</string>
+    <string name="touchscreen_e_gesture_title">Post-d</string>
     <string name="touchscreen_m_gesture_title">Grad-theachdaireachdan</string>
     <string name="touchscreen_s_gesture_title">Grad-theachdaireachdan</string>
     <string name="touchscreen_w_gesture_title">Brabhsair</string>

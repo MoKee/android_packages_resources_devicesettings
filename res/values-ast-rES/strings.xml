@@ -17,6 +17,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">Sí</string>
+    <string name="switch_bar_off">Non</string>
     <string name="touchscreen_gesture_haptic_feedback">Feedback hápticu</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Vibra al deteutase un xestu na pantalla táutil</string>
     <string name="touchscreen_gesture_settings_title">Xestos de pantalla táutil</string>
@@ -31,6 +33,9 @@
     <string name="action_none">Deshabilitar</string>
     <string name="action_launch_camera">Llanzar cámara</string>
     <string name="feedback_intensity_none">Deshabilitóse</string>
+    <string name="feedback_intensity_low">Baxa</string>
+    <string name="feedback_intensity_medium">Media</string>
+    <string name="feedback_intensity_high">Alta</string>
     <string name="dialog_ok">Aceutar</string>
     <string name="doze_settings_help_title">Ayuda</string>
     <string name="fingerprint_pocketmode_title">Evitar esconsueñu accidental</string>

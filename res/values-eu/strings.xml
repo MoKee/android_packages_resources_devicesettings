@@ -17,6 +17,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">Bai</string>
+    <string name="switch_bar_off">Ez</string>
     <string name="touchscreen_gesture_haptic_feedback">Erantzun haptikoa</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Bibratu ukimen-pantailaren keinu bat antzematean</string>
     <string name="touchscreen_gesture_settings_title">Ukitze-pantailaren keinuak</string>
@@ -28,6 +30,8 @@
     <string name="touchscreen_w_gesture_title">Nabigatzailea</string>
     <string name="touchscreen_z_gesture_title">Flasha</string>
     <string name="touchscreen_flashlight_gesture_title">Flasha</string>
+    <string name="ambient_display_title">Ambient display</string>
+    <string name="ambient_display_enable_title">Ambient display</string>
     <string name="ambient_display_always_on_title">Beti piztuta</string>
     <string name="action_none">Desgaitu</string>
     <string name="action_launch_camera">Abiatu kamera</string>

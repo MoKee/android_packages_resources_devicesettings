@@ -17,15 +17,15 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="switch_bar_on">Aktivizuar</string>
-    <string name="switch_bar_off">Çaktivizuar</string>
+    <string name="switch_bar_on">Aktiv</string>
+    <string name="switch_bar_off">Inaktiv</string>
     <string name="touchscreen_gesture_extras">Ekstra</string>
     <string name="touchscreen_gesture_haptic_feedback">Reagimi haptik</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Dridhu kur zbulohet një gjest me prekje ekrani</string>
     <string name="touchscreen_gesture_settings_title">Gjestet me prekje ekrani</string>
     <string name="touchscreen_gesture_settings_summary">Kryej gjeste të ndryshme duke prekur ekranin për veprime të shpejta</string>
     <string name="touchscreen_c_gesture_title">Kamera</string>
-    <string name="touchscreen_e_gesture_title">e-mail</string>
+    <string name="touchscreen_e_gesture_title">Email</string>
     <string name="touchscreen_m_gesture_title">Mesazhet</string>
     <string name="touchscreen_s_gesture_title">Mesazhet</string>
     <string name="touchscreen_w_gesture_title">Shfletuesi</string>

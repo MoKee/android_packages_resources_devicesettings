@@ -17,6 +17,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">Encendido</string>
+    <string name="switch_bar_off">Apagado</string>
     <string name="touchscreen_gesture_haptic_feedback">Resposta háptica</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar cando se detecta un xesto táctil</string>
     <string name="touchscreen_gesture_settings_title">Xestos na pantalla táctil</string>

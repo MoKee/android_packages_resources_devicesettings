@@ -23,6 +23,9 @@
     <string name="touchscreen_e_gesture_title">El. paštas</string>
     <string name="touchscreen_m_gesture_title">Susirašinėjimas žinutėmis</string>
     <string name="touchscreen_s_gesture_title">Susirašinėjimas žinutėmis</string>
+    <string name="ambient_display_title">Ambient display</string>
+    <string name="ambient_display_enable_title">Ambient display</string>
+    <string name="feedback_intensity_medium">Vidutinis</string>
     <string name="doze_settings_help_title">Pagalba</string>
     <string name="fingerprint_title">Piršto atspaudas</string>
     <string name="fingerprint_pocketmode_title">Išvengti atsitiktinio pažadinimo</string>

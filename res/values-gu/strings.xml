@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_off">બંધ</string>
     <string name="touchscreen_c_gesture_title">કૅમેરો</string>
     <string name="touchscreen_e_gesture_title">ઇમેઇલ</string>
     <string name="touchscreen_m_gesture_title">મેસેજિંગ</string>

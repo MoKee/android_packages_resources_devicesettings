@@ -18,12 +18,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="switch_bar_on">Aktiv</string>
+    <string name="switch_bar_off">Bağlı</string>
     <string name="touchscreen_c_gesture_title">Kamera</string>
     <string name="touchscreen_e_gesture_title">E-poçt</string>
     <string name="touchscreen_m_gesture_title">Mesajlaşma</string>
     <string name="touchscreen_s_gesture_title">Mesajlaşma</string>
     <string name="ambient_display_title">Bildiriş ekranı</string>
     <string name="ambient_display_enable_title">Bildiriş ekranı</string>
+    <string name="feedback_intensity_medium">Orta</string>
     <string name="doze_settings_help_title">Kömək</string>
     <string name="fingerprint_title">Barmaq izi</string>
     <string name="fingerprint_pocketmode_title">Təsadüfi oyanmaların qarşısını al</string>
