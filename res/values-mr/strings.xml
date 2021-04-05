@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_off">बंद</string>
     <string name="device_settings_app_name">सुधारीत सेटिंग्स</string>
     <string name="screen_gestures_panel_title">गेश्चर्स</string>
     <string name="touchscreen_gesture_extras">अधिक</string>

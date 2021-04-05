@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">Уклучено</string>
     <string name="touchscreen_gesture_haptic_feedback">Допирни повратни информации</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Вибрација кога ќе се препознае гест на допир</string>
     <string name="touchscreen_gesture_settings_title">Гестови на допир</string>

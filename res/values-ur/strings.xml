@@ -20,5 +20,6 @@
     <string name="switch_bar_off">بند</string>
     <string name="touchscreen_z_gesture_title">ٹارچ</string>
     <string name="touchscreen_flashlight_gesture_title">ٹارچ</string>
+    <string name="dialog_ok">ٹھیک ہے</string>
     <string name="high_touch_sensitivity_summary">ٹچ اسکرین سنویدنشیلتا میں اضافہ کریں تاکہ اس دستانے پہننے کے دوران استعمال کیا جا سکے</string>
 </resources>
