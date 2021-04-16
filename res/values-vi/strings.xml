@@ -19,8 +19,8 @@
     <string name="switch_bar_on">Bật</string>
     <string name="switch_bar_off">Tắt</string>
     <string name="device_settings_app_name">Cài đặt nâng cao</string>
-    <string name="screen_gestures_panel_title">Cử chỉ</string>
-    <string name="touchscreen_gesture_extras">Thêm</string>
+    <string name="screen_gestures_panel_title">Cử chỉ</string>
+    <string name="touchscreen_gesture_extras">Tiện ích</string>
     <string name="touchscreen_gesture_haptic_feedback">Phản hồi xúc giác</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Rung khi một cử chỉ màn hình cảm ứng được phát hiện</string>
     <string name="touchscreen_gesture_settings_title">Cử chỉ màn hình cảm ứng</string>
@@ -39,10 +39,10 @@
     <string name="touchscreen_w_gesture_title">Trình duyệt</string>
     <string name="touchscreen_w_gesture_summary">Vẽ \"W\" để mở ứng dụng trình duyệt</string>
     <string name="touchscreen_z_gesture_title">Đèn pin</string>
-    <string name="touchscreen_z_gesture_summary">Vẽ \'V\' để bật/tắt đèn pin</string>
+    <string name="touchscreen_z_gesture_summary">Vẽ \'Z\' để bật/tắt đèn pin</string>
     <string name="touchscreen_flashlight_gesture_title">Đèn pin</string>
     <string name="touchscreen_flashlight_gesture_summary">Vẽ một vòng tròn để bật/tắt đèn pin</string>
-    <string name="touchscreen_music_gesture_title">Nhạc</string>
+    <string name="touchscreen_music_gesture_title">Âm nhạc</string>
     <string name="touchscreen_music_gesture_summary">Sử dụng các cử chỉ để điều khiển phát lại nhạc \n
     • Vuốt xuống để phát/tạm dừng\n
     • Vuốt sang trái  cho bài trước đó\n
@@ -58,7 +58,7 @@
     <string name="ambient_display_enable_summary">Sáng màn hình khi nhận thông báo</string>
     <string name="ambient_display_gestures_title">Cử chỉ màn hình hiển thị xung quanh</string>
     <string name="ambient_display_gestures_summary">Các cử chỉ bổ sung để đánh thức màn hình</string>
-    <string name="ambient_display_summary">Đánh thức màn hình khi nhận thông báo</string>
+    <string name="ambient_display_summary">Sáng màn hình khi nhận thông báo</string>
     <string name="ambient_display_summary_on">Màn hình sẽ đánh thức khi bạn nhận được thông báo</string>
     <string name="ambient_display_summary_off">Màn hình sẽ không đánh thức khi bạn nhận thông báo</string>
     <string name="ambient_display_always_on_title">Luôn bật</string>
@@ -77,7 +77,7 @@
     <string name="proximity_wake_title">Đánh thức thiết bị bằng cảm biến tiệm cận</string>
     <string name="proximity_wake_enable_title">Đánh thức thiết bị bằng cảm biến tiệm cận</string>
     <string name="proximity_wake_enable_summary">Đánh thức thiết bị bằng cách vẫy tay</string>
-    <string name="actions_title">Thao tác</string>
+    <string name="actions_title">Hành động</string>
     <string name="camera_gesture_title">Xoay hai lần</string>
     <string name="camera_gesture_summary">Mở máy ảnh khi sử dụng cử chỉ xoay hai lần</string>
     <string name="chop_chop_gesture_title">Lắc 2 lần</string>
@@ -90,11 +90,11 @@
     <string name="lift_to_silence_title">Nhấc lên để tắt chuông</string>
     <string name="lift_to_silence_summary">Nhấc điện thoại để tắt tiếng cuộc gọi đến. Nó chỉ hoạt động khi điện thoại của bạn nằm trên mặt phẳng</string>
     <string name="action_none">Tắt</string>
-    <string name="action_launch_camera">Khởi động camera</string>
+    <string name="action_launch_camera">Mở camera</string>
     <string name="action_torch">Bật/tắt đèn pin</string>
     <string name="feedback_intensity_title">Cường độ phản hồi xúc giác</string>
     <string name="feedback_intensity_summary">Độ mạnh của phản hồi xúc giác với thao tác xoay hai lần và lắc hai lần</string>
-    <string name="feedback_intensity_none">Đã tắt</string>
+    <string name="feedback_intensity_none">Đã tắt</string>
     <string name="feedback_intensity_low">Thấp</string>
     <string name="feedback_intensity_medium">Trung bình</string>
     <string name="feedback_intensity_high">Cao</string>
@@ -109,10 +109,16 @@
     <string name="fingerprint_as_home_summary">Sử dụng cảm biến vân tay như là một nút trang chính</string>
     <string name="fingerprint_wakeup_title">Đánh thức bằng vân tay</string>
     <string name="fingerprint_wakeup_summary">Cho phép cảm biến vân tay đánh thức thiết bị trong khi màn hình đang tắt</string>
-    <string name="fingerprint_pocketmode_title">Ngăn chặn tình cờ mở màn hình</string>
+    <string name="fingerprint_pocketmode_title">Ngăn ngừa tình cờ mở màn hình</string>
     <string name="fingerprint_pocketmode_summary">Kiểm tra cảm biến tiệm cận trước khi đánh thức được kích hoạt bằng cảm biến vân tay</string>
     <string name="fingerprint_sleep_title">Tắt màn hình bằng vân tay</string>
     <string name="fingerprint_sleep_summary">Nhấn cảm biến vân tay để tắt màn hình</string>
     <string name="high_touch_sensitivity_title">Độ nhạy cảm ứng cao</string>
     <string name="high_touch_sensitivity_summary">Tăng độ nhạy màn hình cảm ứng để nó có thể được sử dụng trong khi đeo găng tay</string>
+    <string name="quick_charge_title">Sạc nhanh</string>
+    <string name="quick_charge_summary">Bật sạc nhanh. Rút và cắm lại dây sạc sau khi thay đổi tùy chọn này</string>
+    <string name="camera_focus_fix_title">Sửa lấy nét camera</string>
+    <string name="camera_focus_fix_summary">Bật nếu camera không thể lấy nét</string>
+    <string name="wake_on_gesture_title">Đánh thức bằng cử chỉ</string>
+    <string name="wake_on_gesture_summary">Đánh thức thiết bị thay vì hiện thông báo</string>
 </resources>

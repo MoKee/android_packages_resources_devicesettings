@@ -16,13 +16,15 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="device_settings_app_name">Papildu iestatījumi</string>
-    <string name="screen_gestures_panel_title">Žesti</string>
-    <string name="ambient_display_title">Aptverošais displejs</string>
-    <string name="ambient_display_enable_title">Aptverošais displejs</string>
-    <string name="ambient_display_enable_summary">Saņemot ziņojumus, ieslēgt ekrānu</string>
-    <string name="hand_wave_gesture_title">Mājiens ar roku</string>
-    <string name="hand_wave_gesture_summary">Rādīt paziņojumus, pamājot ar roku</string>
-    <string name="pocket_gesture_title">Kabata</string>
-    <string name="pocket_gesture_summary">Izņemot no kabatas, rādīt paziņojumus </string>
+    <string name="switch_bar_on">Ieslēgts</string>
+    <string name="switch_bar_off">Izslēgt</string>
+    <string name="touchscreen_c_gesture_title">Kamera</string>
+    <string name="touchscreen_m_gesture_title">Ziņapmaiņa</string>
+    <string name="touchscreen_s_gesture_title">Ziņapmaiņa</string>
+    <string name="touchscreen_z_gesture_title">Lukturis</string>
+    <string name="touchscreen_flashlight_gesture_title">Lukturis</string>
+    <string name="doze_settings_help_title">Palīdzība</string>
+    <string name="fingerprint_pocketmode_title">Novērsiet nejaušu pamodināšanu</string>
+    <string name="high_touch_sensitivity_title">Augsta pieskāriena jutība</string>
+    <string name="high_touch_sensitivity_summary">Palielināt skārienekrāna jutību, lai to varētu lietot, valkājot cimdus</string>
 </resources>
