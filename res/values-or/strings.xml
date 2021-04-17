@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_off">ଅଫ୍</string>
     <string name="device_settings_app_name">ବିକଶିତ ସେଟିଙ୍ଗ୍ସ</string>
     <string name="screen_gestures_panel_title">ଅଙ୍ଗଭଙ୍ଗୀ</string>
     <string name="touchscreen_gesture_extras">ବୃହତ୍ତର</string>
@@ -24,6 +25,7 @@
     <string name="touchscreen_c_gesture_summary">କ୍ୟାମେରା ସକ୍ରିୟ କରିବା ପାଇଁ ଏକ \"C\" ଆଙ୍କନ୍ତୁ</string>
     <string name="touchscreen_e_gesture_title">ଇମେଲ୍</string>
     <string name="touchscreen_e_gesture_summary">ଇମେଲ୍ ଆପ୍ ଖୋଲିବା ପାଇଁ ଏକ \"e\" ଆଙ୍କନ୍ତୁ</string>
+    <string name="touchscreen_m_gesture_title">ମେସେଜିଂ</string>
     <string name="touchscreen_s_gesture_title">ମେସେଜିଙ୍ଗ</string>
     <string name="touchscreen_s_gesture_summary">ସନ୍ଦେସ୍ ଆପ୍ ଖୋଲିବା ପାଇଁ ଏକ \"S\" ଆଙ୍କନ୍ତୁ</string>
     <string name="touchscreen_v_gesture_title">ଡାଏଲର୍</string>
@@ -53,4 +55,7 @@
     <string name="feedback_intensity_low">କମ୍</string>
     <string name="feedback_intensity_medium">ମଧ୍ୟମ</string>
     <string name="feedback_intensity_high">ଉଚ୍ଚ</string>
+    <string name="fingerprint_pocketmode_title">ର୍ଆକ୍ସିଡେଂଟାଲ୍‍ ୱେକ୍‍-ଅପ୍‍ ପ୍ରତିରୋଧ କରନ୍ତୁ</string>
+    <string name="high_touch_sensitivity_title">ଅଧିକ ସ୍ପର୍ଶ ତୀବ୍ରତା</string>
+    <string name="high_touch_sensitivity_summary">ଟଚ୍‍ସ୍କ୍ରିନ୍‍ ତୀବ୍ରତା ବଢାନ୍ତୁ ଯାହା ଫଳରେ ତାହା ଗ୍ଲୋବ୍ସ ପିଂଧିବା ସମୟରେ ବ୍ୟବହାର କରାଯାଇପାରିବ</string>
 </resources>

@@ -117,4 +117,8 @@
     <string name="high_touch_sensitivity_summary">Zwiększa czułość ekranu dotykowego, umożliwia to korzystanie z niego podczas noszenia rękawiczek</string>
     <string name="quick_charge_title">Szybkie ładowanie</string>
     <string name="quick_charge_summary">Przełącz szybkie ładowanie. Odłącz i ponownie podłącz ładowarkę po zmianie tego ustawienia</string>
+    <string name="camera_focus_fix_title">Naprawa autofokusa kamery</string>
+    <string name="camera_focus_fix_summary">Włącz jeśli masz problemy z fokusem w aparacie </string>
+    <string name="wake_on_gesture_title">Wybudź za pomocą gestów</string>
+    <string name="wake_on_gesture_summary">Wybudź urządzenie zamiast pulsować powiadomienia podczas gestów</string>
 </resources>

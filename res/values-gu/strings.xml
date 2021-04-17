@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_off">બંધ</string>
     <string name="device_settings_app_name">વિગતવાર સેટિંગ્સ</string>
     <string name="screen_gestures_panel_title">જેસ્ચર્સ</string>
     <string name="touchscreen_gesture_extras">એક્સ્ટ્રા</string>
@@ -24,6 +25,7 @@
     <string name="touchscreen_c_gesture_summary">\"C\" દોરો કેમેરા સક્રિય કરવા માટે</string>
     <string name="touchscreen_e_gesture_title">ઇમેઇલ</string>
     <string name="touchscreen_e_gesture_summary">\"e\" દોરો ઈમેઈલ એપ્લીકેશન સક્રિય કરવા માટે</string>
+    <string name="touchscreen_m_gesture_title">મેસેજિંગ</string>
     <string name="touchscreen_s_gesture_title">મેસેજિંગ</string>
     <string name="touchscreen_s_gesture_summary">\"S\" દોરો મેસેજિંગ એપ્લીકેશન સક્રિય કરવા માટે</string>
     <string name="touchscreen_v_gesture_title">ડાયલર</string>
@@ -58,4 +60,7 @@
     <string name="feedback_intensity_low">નિમ્ન</string>
     <string name="feedback_intensity_medium">મધ્યમ</string>
     <string name="feedback_intensity_high">ઉચ્ચ</string>
+    <string name="fingerprint_pocketmode_title">આકસ્મિક વેક અપ રોકો</string>
+    <string name="high_touch_sensitivity_title">ઉચ્ચ ટચ સંવેદનશીલતા</string>
+    <string name="high_touch_sensitivity_summary">ટચસ્ક્રીન સંવેદનશીલતા વધારો જેથી હાથમોજા પહેરીને તેનો ઉપયોગ થઈ શકે</string>
 </resources>

@@ -117,4 +117,6 @@
     <string name="high_touch_sensitivity_summary">Meningkatkan kepekaan layar sentuh sehingga dapat digunakan saat mengenakan sarung tangan</string>
     <string name="quick_charge_title">Pengisian cepat</string>
     <string name="quick_charge_summary">Aktifkan/nonaktifkan pengisian cepat. Cabut dan pasang kembali pengisi daya setelah mengubah setelan ini</string>
+    <string name="camera_focus_fix_title">Memperbaiki fokus kamera</string>
+    <string name="camera_focus_fix_summary">Aktifkan jika Anda memiliki masalah dengan kamera yang tidak fokus</string>
 </resources>

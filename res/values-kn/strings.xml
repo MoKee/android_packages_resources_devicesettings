@@ -16,14 +16,20 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">ಆರಂಭಿಸು</string>
+    <string name="switch_bar_off">ಆಫ್ ಆಗಿದೆ</string>
     <string name="device_settings_app_name">ಸುಧಾರಿತ ಸೆಟ್ಟಿಂಗ್ಸ್</string>
     <string name="screen_gestures_panel_title">ಸನ್ನೆ</string>
     <string name="touchscreen_gesture_extras">ಹೆಚ್ಚುವರಿ</string>
     <string name="touchscreen_gesture_haptic_feedback">ಸ್ಪಾರ್ಶ ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">ಯಾವಾಗ ಒಂದು ಸ್ಪರ್ಶಪರದೆ ಸನ್ನೆ ಪತ್ತೆಯಾಗುವುದೋ ಆಗ ಕಂಪಿಸು</string>
+    <string name="touchscreen_gesture_settings_title">ಸ್ಪರ್ಷಪರದೆಯ ಸನ್ನೆಗಳು</string>
+    <string name="touchscreen_gesture_settings_summary">ತ್ವರಿತ ಪ್ರತಿಕ್ರಿಯೆಗಾಗಿ ಸ್ಪರ್ಶಪರದೆ ಮೇಲೆ ವಿವಿಧ ಸನ್ನೆಗಳನ್ನು ಮಾಡು</string>
     <string name="touchscreen_c_gesture_title">ಕ್ಯಾಮರಾ</string>
     <string name="touchscreen_c_gesture_summary">ಕ್ಯಾಮೆರಾ ಸಕ್ರಿಯಗೊಳಿಸಲು ಒಂದು ವೃತ್ತವನ್ನು ಬರೆಯಿರಿ</string>
     <string name="touchscreen_e_gesture_title">ಇಮೇಲ್</string>
     <string name="touchscreen_e_gesture_summary">ಇಮೇಲ್ ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಲು \"ಇ\" ಡ್ರಾ ಮಾಡಿ</string>
+    <string name="touchscreen_m_gesture_title">ಸಂದೇಶಿಸುವಿಕೆ</string>
     <string name="touchscreen_s_gesture_title">ಮೆಸೇಜಿಂಗ್</string>
     <string name="touchscreen_s_gesture_summary">ಮೆಸೇಜಿಂಗ್ ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಲು \"ಎಸ್\" ಡ್ರಾ ಮಾಡಿ</string>
     <string name="touchscreen_v_gesture_title">ಡೈಲರ್</string>
@@ -32,6 +38,7 @@
     <string name="touchscreen_w_gesture_summary">ಬ್ರೌಸರ್ ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಲು \"ಡಬ್ಲ್ಯೂ\" ಡ್ರಾ ಮಾಡಿ</string>
     <string name="touchscreen_z_gesture_title">ಫ್ಲಾಶ್‌ಲೈಟ್</string>
     <string name="touchscreen_z_gesture_summary">ಟಾರ್ಚನ್ನು ಟಾಗಲ್ ಮಾಡಲು ಒಂದು \'ಝೆಡ್\'ಅನ್ನು ಬರೆಯಿರಿ</string>
+    <string name="touchscreen_flashlight_gesture_title">ಮಿಂಚುಬೆಳಕು</string>
     <string name="user_aware_display_title">ಬಳಕೆದಾರ-ಅರಿವು ಪರದೆ</string>
     <string name="user_aware_display_summary">ಬಳಕೆದಾರ ಪರದೆಯ ಮುಂದಿರುವಾಗ ಪದೆಯನ್ನು ಆನ್ ಆಗಿ ಇಡು</string>
     <string name="ambient_display_title">ಆವರಿಸಿದ ಪರದೆ</string>
@@ -57,6 +64,10 @@
     <string name="feedback_intensity_low">ಕಡಿಮೆ</string>
     <string name="feedback_intensity_medium">ಮಾಧ್ಯಮ</string>
     <string name="feedback_intensity_high">ಅಧಿಕ</string>
+    <string name="dialog_ok">ಸರಿ</string>
+    <string name="doze_settings_help_title">ಸಹಾಯ</string>
+    <string name="button_panel_title">ಹೆಚ್ಚುವರಿ ಗುಂಡಿಗಳು</string>
+    <string name="fingerprint_pocketmode_title">ಆಕಸ್ಮಿಕವಾಗಿ ಎಚ್ಚರವಾಗುವಿಕೆಯನ್ನು ತಡೆ</string>
     <string name="high_touch_sensitivity_title">ಅಧಿಕ ಸ್ಪರ್ಶ ಸಂವೇದನೆ</string>
     <string name="high_touch_sensitivity_summary">ಸ್ಪರ್ಶಪರದೆ ಸಂವೇದನೆ ವೃದ್ಧಿಸಿದರೆ ಕೈಗವಸ ಧರಿಸಿಯೂ ಬಳಸಬಹುದು</string>
 </resources>

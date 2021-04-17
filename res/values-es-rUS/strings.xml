@@ -115,4 +115,8 @@
     <string name="fingerprint_sleep_summary">Pulsa el sensor de la huella digital para apagar la pantalla</string>
     <string name="high_touch_sensitivity_title">Alta sensibilidad táctil</string>
     <string name="high_touch_sensitivity_summary">Aumenta la sensibilidad de la pantalla táctil para que pueda usarse con guantes</string>
+    <string name="quick_charge_title">Carga rápida</string>
+    <string name="quick_charge_summary">Activa o desactiva la carga rápida. Desenchufa y enchufa el cargador después de cambiar este ajuste</string>
+    <string name="camera_focus_fix_title">Fijar enfoque de la cámara</string>
+    <string name="camera_focus_fix_summary">Activa esta opción si la cámara no enfoca correctamente</string>
 </resources>

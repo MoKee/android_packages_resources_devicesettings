@@ -55,6 +55,11 @@
     <string name="actions_title">অ্যাকশন</string>
     <string name="camera_gesture_title">ডাবল-টুইস্ট</string>
     <string name="chop_chop_gesture_title">চপ-চপ</string>
+    <string name="action_none">নিক্রিয় করুন</string>
     <string name="action_launch_camera">ক্যামেরা চালু করুন</string>
     <string name="action_torch">টর্চ চালু বা বন্ধ করুন</string>
+    <string name="feedback_intensity_high">High</string>
+    <string name="fingerprint_pocketmode_title">আকস্মিক জেগে ওঠা প্রতিহত করুন</string>
+    <string name="high_touch_sensitivity_title">উচ্চ স্পর্শ সংবেদনশীলতা</string>
+    <string name="high_touch_sensitivity_summary">টাচস্ক্রীন সংবেদনশীলতা বৃদ্ধি করুন যাতে গ্লাভস পরিহিত অবস্থায় ব্যবহার করা যেতে পারে</string>
 </resources>

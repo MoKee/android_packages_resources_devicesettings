@@ -83,6 +83,7 @@
     <string name="button_panel_title">Ytterligare knappar</string>
     <string name="button_swap_title">Växla knappar</string>
     <string name="fingerprint_title">Fingeravtryck</string>
+    <string name="fingerprint_pocketmode_title">Förhindra oavsiktlig väckning</string>
     <string name="high_touch_sensitivity_title">Hög tryckkänslighet</string>
     <string name="high_touch_sensitivity_summary">Öka skärmens tryckkänslighet så att den kan användas med handskar</string>
 </resources>

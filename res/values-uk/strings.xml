@@ -61,6 +61,8 @@
     <string name="ambient_display_summary">Вмикати екран, коли ви отримали сповіщення</string>
     <string name="ambient_display_summary_on">Екран вмикатиметься, коли ви отримаєте сповіщення</string>
     <string name="ambient_display_summary_off">Екран не буде вмикатися, коли ви отримаєте сповіщення</string>
+    <string name="ambient_display_always_on_title">Завжди увімкнено</string>
+    <string name="ambient_display_always_on_summary">Показувати час, значки сповіщення та іншу інформацію. Збільшує розхід батареї.</string>
     <string name="tilt_sensor_title">Датчик нахилу</string>
     <string name="pickup_sensor_title">Датчик руху</string>
     <string name="proximity_sensor_title">Датчик наближення</string>
@@ -113,4 +115,8 @@
     <string name="fingerprint_sleep_summary">Торкніться до сенсору відбитку пальців для вимикання екрану</string>
     <string name="high_touch_sensitivity_title">Висока чутливість дотику</string>
     <string name="high_touch_sensitivity_summary">Підвищити чутливість екрану для можливості роботи в рукавичках</string>
+    <string name="quick_charge_title">Швидка зарядка</string>
+    <string name="quick_charge_summary">Швидка зарядка. Від\'єднайте і підключіть зарядний пристрій до мережі після зміни даної настройки.</string>
+    <string name="camera_focus_fix_title">Фіксація фокуса камери</string>
+    <string name="camera_focus_fix_summary">Увімкніть, якщо у вас є проблеми з фокусуванням камери</string>
 </resources>

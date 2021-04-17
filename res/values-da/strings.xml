@@ -60,6 +60,7 @@
     <string name="ambient_display_summary">Tænder skærmen, når du modtager notifikationer</string>
     <string name="ambient_display_summary_on">Skærmen vil tænde, når du modtager underretninger</string>
     <string name="ambient_display_summary_off">Skærmen vil ikke tænde, når du modtager underretninger</string>
+    <string name="ambient_display_always_on_title">Altid tændt</string>
     <string name="tilt_sensor_title">Tilt-sensor</string>
     <string name="proximity_sensor_title">Berøringssensor</string>
     <string name="hand_wave_gesture_title">Vink med hånden</string>
@@ -109,5 +110,6 @@
     <string name="fingerprint_pocketmode_summary">Kontrollér nærhedsføleren før oplåsning udløst af fingeraftrykslæseren</string>
     <string name="fingerprint_sleep_title">Fingeraftryksdvale</string>
     <string name="fingerprint_sleep_summary">Tryk på fingeraftrykslæseren for at slukke skærmen</string>
+    <string name="high_touch_sensitivity_title">Høj berøringsfølsomhed</string>
     <string name="high_touch_sensitivity_summary">Forøg berøringsfølsom skærms følsomhed, så den kan bruges med handsker på</string>
 </resources>

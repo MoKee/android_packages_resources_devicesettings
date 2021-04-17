@@ -61,6 +61,7 @@
     <string name="ambient_display_summary">הפעל את המסך כשמתקבלות התראות</string>
     <string name="ambient_display_summary_on">המסך יופעל כשמתקבלות התראות</string>
     <string name="ambient_display_summary_off">המסך לא יופעל כשמתקבלות התראות</string>
+    <string name="ambient_display_always_on_title">תמיד מופעל</string>
     <string name="tilt_sensor_title">חיישן הטיה</string>
     <string name="pickup_sensor_title">חיישן הרמה</string>
     <string name="proximity_sensor_title">חיישן קרבה</string>
